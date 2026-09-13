@@ -1,0 +1,3 @@
+VCD info: dumpfile wave.vcd opened for output.
+FATAL: D:\Engineering\Verilog_Lab\LAB1_submission\lab1_01_logic_gates\sim\tb_logic_gate_modern.sv:37: FAIL logic_gate input=11 expected=110 actual=111
+       Time: 40000  Scope: tb_logic_gate_modern

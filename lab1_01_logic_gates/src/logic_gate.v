@@ -8,6 +8,6 @@ module logic_gate(
 
     assign x = a & b;
     assign y = a | b;
-    assign z = a ^ b;
+    assign z = a | b;
 
 endmodule
