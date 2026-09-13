@@ -1,0 +1,3 @@
+VCD info: dumpfile wave.vcd opened for output.
+FATAL: D:\Engineering\Verilog_Lab\LAB1_submission\lab1_05_comparator4\sim\tb_compare_4.sv:39: FAIL compare_4 a=0 b=0 expected=010 actual=000
+       Time: 10000  Scope: tb_compare_4

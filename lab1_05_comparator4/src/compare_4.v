@@ -5,7 +5,7 @@ module compare_4(
 );
 
     assign o[2] = (a > b);
-    assign o[1] = (a == b);
+    assign o[1] = (a != b);
     assign o[0] = (a < b);
 
 endmodule
