@@ -5,6 +5,6 @@ module adder_4bit(
     output wire       cout
 );
 
-    assign {cout, s} = a + b;
+    assign {cout, s} = a - b;
 
 endmodule
