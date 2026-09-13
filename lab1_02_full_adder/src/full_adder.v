@@ -26,6 +26,6 @@ module full_adder(
         .c(carry_cin)
     );
 
-    assign cout = carry_ab | carry_cin;
+    assign cout = carry_ab & carry_cin;
 
 endmodule
