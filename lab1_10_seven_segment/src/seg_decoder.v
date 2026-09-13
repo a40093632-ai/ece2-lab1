@@ -5,7 +5,7 @@ module seg_decoder(
 
     always @(*) begin
         case (bcd)
-            4'h0: seg_data = 8'hFC;
+            4'h0: seg_data = 8'h60;
             4'h1: seg_data = 8'h60;
             4'h2: seg_data = 8'hDA;
             4'h3: seg_data = 8'hF2;
