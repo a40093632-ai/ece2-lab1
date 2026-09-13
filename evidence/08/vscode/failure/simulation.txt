@@ -1,0 +1,3 @@
+VCD info: dumpfile wave.vcd opened for output.
+FATAL: D:\Engineering\Verilog_Lab\LAB1_submission\lab1_08_encoder8to3\sim\tb_encoder8x3.sv:48: FAIL encoder8x3 i=00000001 expected=111 actual=110
+       Time: 20000  Scope: tb_encoder8x3
