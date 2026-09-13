@@ -6,6 +6,6 @@ module sub_4bit(
 );
 
     assign d = a - b;
-    assign bor = (a <= b);
+    assign bor = (a < b);
 
 endmodule
