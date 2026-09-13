@@ -5,7 +5,7 @@ module demux_1x8(
 );
 
     assign o = i
-        ? (8'b10000000 >> s)
+        ? (8'b10000000 << s)
         : 8'b00000000;
 
 endmodule
