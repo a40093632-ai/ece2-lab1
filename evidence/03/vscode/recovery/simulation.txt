@@ -1,0 +1,3 @@
+VCD info: dumpfile wave.vcd opened for output.
+LAB1_PASS adder_4bit cases=256
+D:\Engineering\Verilog_Lab\LAB1_submission\lab1_03_adder4\sim\tb_adder_4bit.sv:54: $finish called at 2560000 (1ps)
