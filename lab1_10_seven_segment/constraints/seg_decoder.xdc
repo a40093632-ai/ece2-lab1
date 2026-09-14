@@ -1,0 +1,13 @@
+set_property -dict {PACKAGE_PIN Y1 IOSTANDARD LVCMOS33} [get_ports {bcd[3]}]
+set_property -dict {PACKAGE_PIN W3 IOSTANDARD LVCMOS33} [get_ports {bcd[2]}]
+set_property -dict {PACKAGE_PIN U2 IOSTANDARD LVCMOS33} [get_ports {bcd[1]}]
+set_property -dict {PACKAGE_PIN T1 IOSTANDARD LVCMOS33} [get_ports {bcd[0]}]
+
+set_property -dict {PACKAGE_PIN P1 IOSTANDARD LVCMOS33} [get_ports {seg_data[7]}]
+set_property -dict {PACKAGE_PIN P3 IOSTANDARD LVCMOS33} [get_ports {seg_data[6]}]
+set_property -dict {PACKAGE_PIN P7 IOSTANDARD LVCMOS33} [get_ports {seg_data[5]}]
+set_property -dict {PACKAGE_PIN N3 IOSTANDARD LVCMOS33} [get_ports {seg_data[4]}]
+set_property -dict {PACKAGE_PIN T5 IOSTANDARD LVCMOS33} [get_ports {seg_data[3]}]
+set_property -dict {PACKAGE_PIN R2 IOSTANDARD LVCMOS33} [get_ports {seg_data[2]}]
+set_property -dict {PACKAGE_PIN R4 IOSTANDARD LVCMOS33} [get_ports {seg_data[1]}]
+set_property -dict {PACKAGE_PIN R6 IOSTANDARD LVCMOS33} [get_ports {seg_data[0]}]

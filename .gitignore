@@ -3,3 +3,4 @@
 **/.Xil/
 *.jou
 *.str
+reports/pre/*.pdf
