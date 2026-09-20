@@ -1,6 +1,5 @@
 **/build/
-**/vivado/
+lab1_*/vivado/
 **/.Xil/
 *.jou
 *.str
-reports/pre/*.pdf
